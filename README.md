@@ -35,7 +35,7 @@ A modern Learning Management System frontend built with Next.js 14, TypeScript, 
    Update the `.env.local` file:
 
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:5001/api/v1
+   API_URL=http://localhost:5001/api/v1
    ```
 
 3. **Start Development Server**
@@ -124,7 +124,7 @@ The project uses a component library built with:
 
 Set the following environment variables:
 
-- `NEXT_PUBLIC_API_URL`: Backend API URL
+- `API_URL`: Backend API URL
 
 ### Build Process
 
